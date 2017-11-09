@@ -1,0 +1,23 @@
+button{
+  margin-top: 20px;
+}
+
+.needs-work{
+  color: red;
+}
+
+.decent-work{
+  color: orange;
+}
+
+.good-work{
+  color: blue;
+}
+
+.great-work{
+  color: green;
+}
+
+.elite{
+  color: purple;
+}
